@@ -1,0 +1,6 @@
+switch = "off"
+if(switch == "ON"):
+    print("Lights will be on")
+else:
+    print("Lights will be off")
+    

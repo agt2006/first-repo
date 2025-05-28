@@ -1,0 +1,6 @@
+name=input()
+print("My name is :",name)
+doorno=input()
+print("My doorno is :",doorno)
+adress=input()
+print("My adress is :",adress)

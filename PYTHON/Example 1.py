@@ -1,0 +1,6 @@
+name=input()
+rollno=input()
+age=input()
+print("My name is :",name)
+print("My rollno is:",rollno)
+print("My age is:",age)
